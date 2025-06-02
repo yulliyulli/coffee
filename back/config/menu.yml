@@ -1,0 +1,176 @@
+categories:
+  - name: "에스프레소"
+    items:
+      - name: "아메리카노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          shot: ["기본", "1샷 추가", "2샷 추가", "디카페인"]
+          syrup: ["없음", "바닐라", "카라멜", "헤이즐넛"]
+
+      - name: "카페 라떼"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크", "코코넛 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가", "디카페인"]
+          syrup: ["없음", "바닐라", "카라멜", "헤이즐넛"]
+
+      - name: "카푸치노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가", "디카페인"]
+          syrup: ["없음", "바닐라", "카라멜", "헤이즐넛"]
+
+      - name: "카라멜 마키아토"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+
+      - name: "바닐라 라떼"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가", "디카페인"]
+          syrup: ["기본 바닐라", "설탕무첨가 바닐라", "바닐라 추가"]
+
+      - name: "화이트 초콜릿 모카"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+
+  - name: "프라푸치노"
+    items:
+      - name: "자바칩 프라푸치노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가", "디카페인", "샷 제거"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+          syrup: ["없음", "바닐라", "카라멜"]
+
+      - name: "카라멜 프라푸치노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          shot: ["기본", "1샷 추가", "2샷 추가", "디카페인", "샷 제거"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+
+      - name: "딸기 크림 프라푸치노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+
+      - name: "녹차 크림 프라푸치노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+          sweetness: ["기본", "단맛 적게", "단맛 많이"]
+
+      - name: "망고 패션 프라푸치노"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          base: ["기본", "레모네이드 베이스"]
+
+  - name: "콜드브루"
+    items:
+      - name: "콜드브루"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          syrup: ["없음", "바닐라", "카라멜", "헤이즐넛"]
+          ice: ["기본", "얼음 적게", "얼음 많이"]
+
+      - name: "바닐라 크림 콜드브루"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          ice: ["기본", "얼음 적게", "얼음 많이"]
+          syrup: ["기본 바닐라", "바닐라 추가", "설탕무첨가 바닐라"]
+
+      - name: "니트로 콜드브루"
+        options:
+          size: ["Tall", "Grande"]
+          syrup: ["없음", "바닐라", "카라멜"]
+
+  - name: "티 라떼"
+    items:
+      - name: "차이 티 라떼"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크", "코코넛 밀크"]
+          sweetness: ["기본", "단맛 적게", "단맛 많이", "시럽 없음"]
+
+      - name: "얼그레이 티 라떼"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          syrup: ["없음", "바닐라", "라벤더"]
+
+      - name: "녹차 라떼"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          sweetness: ["기본", "단맛 적게", "단맛 많이"]
+
+  - name: "리프레셔"
+    items:
+      - name: "망고 드래곤후르츠 리프레셔"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          base: ["기본", "레모네이드", "코코넛 밀크"]
+          ice: ["기본", "얼음 적게", "얼음 많이"]
+
+      - name: "핑크 드링크"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          milk: ["기본 코코넛 밀크", "아몬드 밀크", "오트 밀크"]
+          ice: ["기본", "얼음 적게", "얼음 많이"]
+
+      - name: "딸기 아사이 리프레셔"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          base: ["기본", "레모네이드", "코코넛 밀크"]
+          ice: ["기본", "얼음 적게", "얼음 많이"]
+
+  - name: "티 & 기타"
+    items:
+      - name: "잉글리쉬 브렉퍼스트"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          sweetener: ["없음", "설탕", "꿀", "스테비아"]
+          lemon: ["없음", "레몬 추가"]
+
+      - name: "캐모마일"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          sweetener: ["없음", "설탕", "꿀", "스테비아"]
+          lemon: ["없음", "레몬 추가"]
+
+      - name: "페퍼민트"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot", "Iced"]
+          sweetener: ["없음", "설탕", "꿀", "스테비아"]
+
+      - name: "핫 초콜릿"
+        options:
+          size: ["Tall", "Grande", "Venti"]
+          temperature: ["Hot"]
+          milk: ["일반 우유", "저지방 우유", "무지방 우유", "두유", "아몬드 밀크", "오트 밀크"]
+          whip: ["기본", "휘핑 추가", "휘핑 제거"]
+          syrup: ["없음", "바닐라", "페퍼민트", "카라멜"]
