@@ -1,0 +1,237 @@
+categories:
+  - name: "커피"
+    items:
+      - name: "시그니처 라떼"
+        image: "/images/menu/tenpercent/01.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "텐라떼"
+        image: "/images/menu/tenpercent/02.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "솔티드밀크카라멜"
+        image: "/images/menu/tenpercent/03.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "더티땅콩라떼"
+        image: "/images/menu/tenpercent/04.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "아인슈페너"
+        image: "/images/menu/tenpercent/05.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "아메리카노"
+        image: "/images/menu/tenpercent/07.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "에스프레소"
+        image: "/images/menu/tenpercent/08.jpg"
+        options: {}
+      - name: "쇼콜라프레소"
+        image: "/images/menu/tenpercent/09.jpg"
+        options: {}
+      - name: "플랫화이트"
+        image: "/images/menu/tenpercent/10.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "카페라떼"
+        image: "/images/menu/tenpercent/11.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "바닐라빈라떼"
+        image: "/images/menu/tenpercent/12.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "돌체라떼"
+        image: "/images/menu/tenpercent/13.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "밀크카라멜라떼"
+        image: "/images/menu/tenpercent/14.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "카페모카"
+        image: "/images/menu/tenpercent/15.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "콜드브루"
+        image: "/images/menu/tenpercent/16.jpg"
+        options: {}
+      - name: "콜드브루라떼"
+        image: "/images/menu/tenpercent/17.jpg"
+        options: {}
+      - name: "돌체콜드브루라떼"
+        image: "/images/menu/tenpercent/18.jpg"
+        options: {}
+
+  - name: "라떼"
+    items:
+      - name: "진한 말차카페라떼"
+        image: "/images/menu/tenpercent/06.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "진한 말차라떼"
+        image: "/images/menu/tenpercent/19.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "진한 말차슈페너"
+        image: "/images/menu/tenpercent/20.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "말차딸기크림라떼"
+        image: "/images/menu/tenpercent/21.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "말차초코라떼"
+        image: "/images/menu/tenpercent/22.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "리얼초코라떼"
+        image: "/images/menu/tenpercent/24.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "망고 코코넛 사고라떼"
+        image: "/images/menu/tenpercent/25.jpg"
+        options: {}
+      - name: "딸기 코코넛 사고라떼"
+        image: "/images/menu/tenpercent/26.jpg"
+        options: {}
+      - name: "리얼딸기라떼"
+        image: "/images/menu/tenpercent/39.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "진한곡물라떼"
+        image: "/images/menu/tenpercent/40.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "로얄밀크티"
+        image: "/images/menu/tenpercent/41.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+
+  - name: "프레치노/파르페"
+    items:
+      - name: "말차 치즈폼 프레치노"
+        image: "/images/menu/tenpercent/23.jpg"
+        options: {}
+      - name: "초콜릿 크런치 치즈폼 프레치노"
+        image: "/images/menu/tenpercent/27.jpg"
+        options: {}
+      - name: "쿠키 치즈폼 프레치노"
+        image: "/images/menu/tenpercent/28.jpg"
+        options: {}
+      - name: "플레인 요거트 프레치노"
+        image: "/images/menu/tenpercent/29.jpg"
+        options: {}
+      - name: "망고 요거트 프레치노"
+        image: "/images/menu/tenpercent/30.jpg"
+        options: {}
+      - name: "딸기 요거트 프레치노"
+        image: "/images/menu/tenpercent/31.jpg"
+        options: {}
+      - name: "블루베리 요거트 프레치노"
+        image: "/images/menu/tenpercent/32.jpg"
+        options: {}
+      - name: "아보카도바나나 프레치노"
+        image: "/images/menu/tenpercent/33.jpg"
+        options: {}
+      - name: "애플망고 프레치노"
+        image: "/images/menu/tenpercent/34.jpg"
+        options: {}
+      - name: "망고딸기 프레치노"
+        image: "/images/menu/tenpercent/35.jpg"
+        options: {}
+      - name: "딥앤베리 파르페"
+        image: "/images/menu/tenpercent/36.jpg"
+        options: {}
+      - name: "딥앤커피 파르페"
+        image: "/images/menu/tenpercent/37.jpg"
+        options: {}
+      - name: "딥앤초코 파르페"
+        image: "/images/menu/tenpercent/38.jpg"
+        options: {}
+
+  - name: "에이드"
+    items:
+      - name: "우바 피치아이스티"
+        image: "/images/menu/tenpercent/42.jpg"
+        options: {}
+      - name: "제로 피치아이스티"
+        image: "/images/menu/tenpercent/43.jpg"
+        options: {}
+      - name: "제로 망고아이스티"
+        image: "/images/menu/tenpercent/44.jpg"
+        options: {}
+      - name: "제로 사과아이스티"
+        image: "/images/menu/tenpercent/45.jpg"
+        options: {}
+      - name: "제로 체리콕"
+        image: "/images/menu/tenpercent/46.jpg"
+        options: {}
+      - name: "라이트 애플사이다비니거"
+        image: "/images/menu/tenpercent/47.jpg"
+        options: {}
+      - name: "라이트 핑크텐피즈"
+        image: "/images/menu/tenpercent/48.jpg"
+        options: {}
+      - name: "라이트 그린텐피즈"
+        image: "/images/menu/tenpercent/49.jpg"
+        options: {}
+      - name: "자몽에이드"
+        image: "/images/menu/tenpercent/50.jpg"
+        options: {}
+      - name: "레몬에이드"
+        image: "/images/menu/tenpercent/51.jpg"
+        options: {}
+
+  - name: "티"
+    items:
+      - name: "고흥 유자차"
+        image: "/images/menu/tenpercent/52.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "허니자몽티"
+        image: "/images/menu/tenpercent/53.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "허니레몬티"
+        image: "/images/menu/tenpercent/54.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "블랙자몽티"
+        image: "/images/menu/tenpercent/55.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "잉글리쉬브렉퍼스트"
+        image: "/images/menu/tenpercent/56.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "얼그레이프렌치블루"
+        image: "/images/menu/tenpercent/57.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "유기농제주녹차"
+        image: "/images/menu/tenpercent/58.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "시트러스그린"
+        image: "/images/menu/tenpercent/59.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "히비스커스베리"
+        image: "/images/menu/tenpercent/60.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "페퍼민트"
+        image: "/images/menu/tenpercent/61.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "캐모마일메들리"
+        image: "/images/menu/tenpercent/62.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "오르조브루"
+        image: "/images/menu/tenpercent/63.jpg"
+        options:
+          temperature: ["Hot", "Ice"]
