@@ -310,7 +310,7 @@ export default {
         cafe: '',
         singleOrder: false
       },
-      cafeOptions: ['파란만잔', '텐퍼센트'],
+      cafeOptions: ['파란만잔', '텐퍼센트', 'Are'],
 
       // 뷰 관련
       currentView: 'summary',

@@ -1,0 +1,69 @@
+categories:
+  - name: "커피"
+    items:
+      - name: "아메리카노"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "카페 라떼"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "바닐라 라떼"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "카라멜 마끼아또"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "카푸치노"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "에스프레소"
+        image: ""
+        options:
+          temperature: ["Hot"]
+
+  - name: "논커피"
+    items:
+      - name: "초콜릿 라떼"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "녹차 라떼"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "고구마 라떼"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+
+  - name: "에이드/주스"
+    items:
+      - name: "레몬에이드"
+        image: ""
+        options: {}
+      - name: "자몽에이드"
+        image: ""
+        options: {}
+      - name: "오렌지주스"
+        image: ""
+        options: {}
+
+  - name: "티"
+    items:
+      - name: "얼그레이"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "캐모마일"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
+      - name: "페퍼민트"
+        image: ""
+        options:
+          temperature: ["Hot", "Ice"]
